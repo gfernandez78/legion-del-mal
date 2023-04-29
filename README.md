@@ -8,3 +8,6 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 
 ## Curso de Fernando en Udemy
+
+## Fecha actual
+Hoy es 2023-01-01
